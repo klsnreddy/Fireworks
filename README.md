@@ -27,3 +27,5 @@ You will need an APK installer on your android device to be able to install this
 "Apk Installer" which seems to work pretty well.
 
 Feel free to report issues, unless they are about the above known missing features.
+
+Testing this.
